@@ -1,3 +1,7 @@
+/*
+Author: Mark Pei
+Day: 11/06/2017
+*/
 #include <iostream>
 
 using namespace std;
